@@ -1,0 +1,13 @@
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\netcoreapp3.1\NumbersCount.exe
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\netcoreapp3.1\NumbersCount.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\netcoreapp3.1\NumbersCount.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\netcoreapp3.1\NumbersCount.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\netcoreapp3.1\NumbersCount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\netcoreapp3.1\NumbersCount.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.genruntimeconfig.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\netcoreapp3.1\NumbersCount.csproj.AssemblyReference.cache

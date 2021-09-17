@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\NumbersCount.exe
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\NumbersCount.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\NumbersCount.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\NumbersCount.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\NumbersCount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\ref\NumbersCount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\bin\Debug\net5.0\NumbersCount.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\ref\NumbersCount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\NumbersCount\obj\Debug\net5.0\NumbersCount.genruntimeconfig.cache
